@@ -9,6 +9,8 @@ Supported audio extensions: MP3, AAC, ASF, WMW, WMA, FLAC, AIFF.
 * Python 2.7+ (Python3.5 recommended)
 * [Mutagen](https://mutagen.readthedocs.io/) library installed
 
+        $ pip install -r requirements.txt
+
 
 ## Usage
 
